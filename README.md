@@ -1,2 +1,2 @@
 # Basic-Exercise-Tracker-app
- Exercise Tracker
+ Exercise Tracker written w JavaFX
